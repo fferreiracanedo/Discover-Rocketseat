@@ -16,7 +16,7 @@ body{
 
 
 .container{
-    width:min(90%vw, 800px);
+    width:min(90vw, 800px);
     
     margin: auto;
     
